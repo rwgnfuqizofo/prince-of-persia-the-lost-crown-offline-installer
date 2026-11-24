@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging action game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience Prince of Persia: The Lost Crown in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,7 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Storage** | 400 MB available space | 400 MB available space |
 
 ---
 
